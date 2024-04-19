@@ -58,3 +58,4 @@ changes to the language you translated.
 
 * Rewrite in Rust
 * Find translators to all known languages
+* Buy domain
