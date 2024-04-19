@@ -10,6 +10,11 @@ yourself to the `CODEOWNERS` file if you want to review potential future
 changes to the language you translated.
 
 ## Credits
+* Based on [moremeta.vercel.app](https://github.com/alwayscolorblind/moremeta.xyz) be me
+* Russian translation by me (but you can take this place)
+* English translation by me (but you can take this place)
+
+## Credits of dontasktoask.com
 * Based on [iki.fi/sol/dontask.html](https://www.iki.fi/sol/dontask.html) by [Jari Komppa](https://www.iki.fi/sol/)
 * Website by [@tulir](https://github.com/tulir)
 * Arabic translation by [@painor](https://github.com/painor) and [@alfawal](https://github.com/alfawal)
@@ -48,3 +53,8 @@ changes to the language you translated.
 * Bosnian translation by [@JustMike-git](https://github.com/JustMike-git)
 * Bengali translation by [@LakhindarPal](https://github.com/LakhindarPal)
 * Latvian translation by [@TruncatedDinoSour](https://ari.lt/gh)
+
+## TODO
+
+* Rewrite in Rust
+* Find translators to all known languages
