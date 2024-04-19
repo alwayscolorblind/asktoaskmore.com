@@ -1,6 +1,7 @@
-# [dontasktoask.com](https://dontasktoask.com)
-An informational website about why you should ask questions directly instead of
-asking to ask.
+# [asktoaskmore.com](https://asktoaskmore.vercel.app)
+An informational website about why you should ask to ask instead of asking questions directly.
+
+Objectively better fork of [maunium/dontasktoask.com](https://github.com/maunium/dontasktoask.com)
 
 Feel free to make pull requests with new translations or fixes to the existing
 translations. When making new translations, you can add credit for yourself in
